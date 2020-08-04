@@ -1,0 +1,165 @@
+#intro{
+padding:15px 0px;
+padding-top: 60px;
+}
+#intro-btn{
+    margin-left:32%;
+}
+#intro p{
+    font-size:2rem;
+}
+blockquote{
+    margin-top: 5px;
+}
+
+.myCarousel{
+    margin-top: -90px;
+}
+
+.row{
+    margin:30px 0px;
+}
+.row h2{
+    text-align:center;
+}
+
+
+
+#top-deals{
+color: yellow;
+border:2px solid yellow;
+border-radius:10%;
+}
+
+
+.mission-content{
+    font-size: 1.2rem;
+    padding:0px 15px;
+}
+
+.team-info{
+    width: 95%;
+    padding:30px;
+    border-radius:10px;
+}
+
+.team-info img{
+    width: 200px;
+    border-radius:10%;
+    margin-bottom: 10px;
+  }
+  
+  .team-names i{
+     font-size: 2rem;
+     letter-spacing: 2rem; 
+  }
+  .partners{
+    text-align: center;
+    font-size: 45px;
+    margin-left: 5%;
+      
+  }
+
+  .partners h1{
+    text-align:left;
+    margin-left:50px;
+    font-size:2.7rem;
+  }
+  #deal{
+position:absolute;
+z-index:2;
+border:2px solid black;
+color:white;
+border-radius:10px;
+ width:120px;
+ height:63px;
+ top:120px;
+ left:-5px;
+}
+#notice{
+text-align:center;
+}
+
+#demo{
+color:black;
+margin-top:-30px;
+margin-left:8px;
+font-size: 1.5rem;
+color:white;
+zoom:0.81;
+}
+
+  @media screen and (max-width:340px){
+    .card{
+        zoom:0.9;
+    }
+    .team-names h1{
+        font-size:2.2rem;
+        margin-bottom:30px;
+    }
+    .team-names i{
+        font-size: 2.2rem;
+        letter-spacing: 2rem; 
+     }
+    }
+    @media screen and (min-width:540px) and (max-width:790px){
+      .partners h1{
+          margin-left:240px;
+      }    
+      .partners i{
+          margin-top:30px;
+          font-size:4rem;
+          margin-left:-30px;
+      }
+      #intro-btn{
+        background-color: black;
+        margin-left: 43%;
+    }
+    .dealRow{
+      margin-left:40px;
+    }
+    }
+    .carousel-item img{
+       height: 300px;
+      
+    }
+
+    
+  
+    
+
+    @media screen and (max-width: 780px){     
+        .contact-page{
+          max-width: 800px;
+        }
+        h2{
+          font-size: 40px;
+          margin-bottom: 40px;
+        }
+      #ctn{
+          font-size:20px;
+      }
+      .icon{
+           width:40px;
+           height:40px;
+           padding: 11px 0;
+      }
+        .contact-info, .contact-form{
+          flex: 100%;
+          margin-bottom: 30px;
+        }
+        .textb{
+          width: 100%;
+        }
+       
+      }
+
+      #top-deals{
+        border:none;
+        }
+        
+        #top-deals:hover{
+        border:none;
+        background:none;
+        }
+
