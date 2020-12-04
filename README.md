@@ -3,17 +3,19 @@
 [![GitHub forks](https://img.shields.io/github/forks/heysujal/TechKart?style=social&label=Fork&maxAge=2592000)](https://github.com/heysujal/TechKart)
 [![GitHub stars](https://img.shields.io/github/stars/heysujal/TechKart?style=social&label=Star&maxAge=2592000)](https://github.com/heysujal/TechKart)
 [![GitHub watchers](https://img.shields.io/github/watchers/heysujal/TechKart?style=social&label=Watch&maxAge=2592000)](https://github.com/heysujal/TechKart)
+<br />
  **TechKart**
+ <br />
 TechKart shows you the latest phones and deals on it.
   
 <br />
 
 
-**Live** :
-**Preview**
+**Preview**<br />
  <img height="380px" width="400px" src="https://raw.githubusercontent.com/heysujal/TechKart/master/img/preview.png" />
 <br />
 
+**Live** : https://heysujal.github.io/TechKart/
 
 ### An e-commerce Website for all Tech related products.
 
